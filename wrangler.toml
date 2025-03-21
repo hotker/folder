@@ -22,7 +22,7 @@ migrations_dir="./dist/database/migrations"
 [[r2_buckets]]
 binding = "BLOB"
 migrations_dir="./dist/database/migrations"
-bucket_name = "" # Set your bucket name
+bucket_name = "folder" # Set your bucket name
 
 # assets
 [assets]

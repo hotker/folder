@@ -14,7 +14,7 @@ custom_domain = true
 # Bindings for Cloudflare D1
 [[d1_databases]]
 binding = "DB"
-database_id = "<uuid>" # Set your database ID
+database_id = "7a9c694d-c6df-451a-9951-ca47d71b7652" # Set your database ID
 database_name = "folder-demo" # Set your database name
 migrations_dir="./dist/database/migrations"
 
